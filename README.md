@@ -39,6 +39,8 @@ Trabalho-final-de-web-1/
 │   └── styles.css          # Estilos globais e responsivos
 ├── js/
 │   └── app.js              # Autenticação, header/footer e painéis
+│── img/
+│   └── logo_academia1.png  # Logotipo do projeto
 └── pages/
     ├── sobre.html           # Página institucional "Sobre"
     ├── planos.html          # Planos e valores
