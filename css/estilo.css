@@ -6,7 +6,11 @@
   --muted: #c2b7e5;
   --primary: #a855f7;
   --primary-dark: #7e22ce;
+<<<<<<< HEAD
   --accent: #6c0c99;
+=======
+  --accent: #ff66c4;
+>>>>>>> 67ae694c2729d3474c206b9ac40ee7c9077bbd30
   --border: rgba(255, 255, 255, 0.14);
   --shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
 }
