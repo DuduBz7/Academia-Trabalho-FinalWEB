@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trabalho Final de Web I — FitManager
 
 Sistema web para gestão de uma academia, com páginas públicas, área do aluno e painel administrativo. Desenvolvido em HTML, CSS e JavaScript puro, com navegação entre páginas e um fluxo de login/cadastro que funciona com armazenamento local no navegador.
